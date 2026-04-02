@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="thumbnail07.png" width="800">
+</p>
+
 # Face Recognition using OpenCV
 
 This project implements a real-time face recognition system using Python and OpenCV.  
@@ -62,6 +66,12 @@ The system will detect and recognize faces in real-time using your webcam.
 - Displays recognized person's name
 - Shows "Unknown" for unidentified faces
 - Captures image of unknown person
+
+## 🔗 Links
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/senthamil45)
+- 🌍 [Portfolio](https://senthamill.vercel.app/)
+- 💻 [GitHub](https://github.com/selvan-01/face-recognition-opencv.git)
 
 ## Author
 S. Senthamil Selvan  
